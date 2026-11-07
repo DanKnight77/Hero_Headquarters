@@ -1,0 +1,28 @@
+<resources>
+
+    //Our referenced strings
+    <string name="app_name">Hero Headquarters</string>
+
+    <string name="hero1">Captain Knight</string>
+    <string name="description1">A fearless hero who stands down to no one. His suit of armor is rumored to be impenetrable.</string>
+
+    <string name="hero2">Shadow Rider</string>
+    <string name="description2">You may not see him coming, but you will know when he has arrived. Beware of hiaow minions!</string>
+
+    <string name="hero3">Hurricane</string>
+    <string name="description3">A powerful hero who can summon the power of a storm. You cannot hide from the lightning.</string>
+
+    <string name="hero4">Optimus 3000</string>
+    <string name="description4">AI has found its way to the battlefield. Not only can he fight, but any enemy electronics are under constant threat.</string>
+
+    <string name="hero5">A.O.W. (Art of War)</string>
+    <string name="description5">If he can draw it, expect it to be thrown at you. When the pen becomes the sword, no one is safe!</string>
+
+    <string name="hero6">Big Claws</string>
+    <string name="description6">Raised in the Jungle so no rules exist. The claws bring the stringest men nightmares.</string>
+
+    <string name="hero7">Trident Titan</string>
+    <string name="description7">He rules the ocean but can bring the fight anywhere. No one can hold their breath forever!</string>
+
+
+</resources>
